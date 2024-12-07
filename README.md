@@ -1,4 +1,8 @@
+![Energizers.Fun Logo](./src/app/images/imagotype.svg)
+
 # 🎮 Energizers.Fun
+
+![Energizers.Fun Screenshot](./src/app/images/screenshot.png)
 
 Welcome to Energizers.Fun - Your go-to platform for fun team-building games and energizers! 🎯
 
@@ -36,7 +40,6 @@ Each game entry should include:
 - `maxPlayers`: Maximum recommended number of players
 - `description`: A detailed explanation of what the game is about
 - `screenshot`: URL to an image preview of the game
-- `rating`: Game rating from 1-5
 - `link`: URL where the game can be played
 - `tags`: Array of categories/keywords that describe the game
 

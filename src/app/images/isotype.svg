@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="120" viewBox="0 0 120 120">
+  <!-- Circle background -->
+  <circle cx="60" cy="60" r="50" fill="#3A405A" />
+  
+  <!-- Dots forming "E" -->
+  <!-- Top horizontal line -->
+  <circle cx="35" cy="40" r="6" fill="#F76C5E" />
+  <circle cx="50" cy="40" r="6" fill="#F76C5E" />
+  <circle cx="65" cy="40" r="6" fill="#F76C5E" />
+  
+  <!-- Middle horizontal line -->
+  <circle cx="35" cy="60" r="6" fill="#4CAF9A" />
+  <circle cx="50" cy="60" r="6" fill="#4CAF9A" />
+  
+  <!-- Bottom horizontal line -->
+  <circle cx="35" cy="80" r="6" fill="#F76C5E" />
+  <circle cx="50" cy="80" r="6" fill="#F76C5E" />
+  <circle cx="65" cy="80" r="6" fill="#F76C5E" />
+</svg>
