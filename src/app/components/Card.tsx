@@ -41,6 +41,7 @@ const Card = ({
           alt={name}
           fill
           className="object-cover transform group-hover:scale-105 transition-transform duration-300"
+          unoptimized
         />
       </div>
       <h3 className="text-xl font-medium text-white mb-2">{name}</h3>

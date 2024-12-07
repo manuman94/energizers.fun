@@ -27,7 +27,7 @@ const AddGameModal = ({ isOpen, onClose }: Props) => {
             Email us at support@energizers.fun
           </a>
           <a
-            href="https://github.com/yourusername/energizers.fun"
+            href="https://github.com/manuman94/energizers.fun"
             target="_blank"
             rel="noopener noreferrer"
             className="block w-full px-4 py-3 text-center text-sm font-medium text-white bg-[#4CAF9A]/80 hover:bg-[#4CAF9A] rounded-lg transition-colors duration-200"
