@@ -1,0 +1,79 @@
+[
+  {
+    "id": 1,
+    "name": "Gartic Phone",
+    "minPlayers": 4,
+    "maxPlayers": 30,
+    "description": "A hilarious online drawing and guessing game where players take turns drawing what others have written and guessing what others have drawn. Watch as simple phrases transform into hilariously misinterpreted artwork through multiple rounds of telephone-style gameplay.",
+    "screenshot": "https://garticphone.com/images/thumb.png",
+    "rating": 4.8,
+    "link": "https://garticphone.com",
+    "tags": ["drawing", "multiplayer", "party", "social"]
+  },
+  {
+    "id": 2,
+    "name": "Travle",
+    "minPlayers": 1,
+    "maxPlayers": 20,
+    "description": "A geography-based guessing game where players explore the world through street view images and try to identify locations. Test your geography knowledge and learn about new places in this engaging multiplayer experience.",
+    "screenshot": "https://travle.earth/images/previews/countries_preview.png",
+    "rating": 4.5,
+    "link": "https://travle.earth",
+    "tags": ["geography", "multiplayer", "educational", "quiz"]
+  },
+  {
+    "id": 3,
+    "name": "Dixit Online",
+    "minPlayers": 3,
+    "maxPlayers": 6,
+    "description": "An exciting online multiplayer game that combines strategy and luck. Players compete in real-time matches, making tactical decisions and engaging with other players in a dynamic gaming environment.",
+    "screenshot": "https://www.ludonauta.es/files/ludico/juegos-mesas/juego-mesa-dixit-2008-1968557103.jpg",
+    "rating": 4.3,
+    "link": "https://play-tixid.online/en/login",
+    "tags": ["strategy", "multiplayer", "competitive", "social"]
+  },
+  {
+    "id": 4,
+    "name": "Akinator",
+    "minPlayers": 1,
+    "maxPlayers": 20,
+    "description": "A fascinating web game featuring a genie who can read your mind by asking a series of questions. Think of any real or fictional character, and through clever deduction, Akinator will try to guess who you're thinking of. A perfect game for testing knowledge and having fun with friends.",
+    "screenshot": "https://www.hellofriki.com/wp-content/uploads/2017/08/akinator-portada1-780x470.jpg",
+    "rating": 4.7,
+    "link": "https://en.akinator.com/",
+    "tags": ["quiz", "deduction", "multiplayer", "party"]
+  },
+  {
+    "id": 5,
+    "name": "Skribbl.io",
+    "minPlayers": 3,
+    "maxPlayers": 20,
+    "description": "A fun multiplayer drawing and guessing game where one player draws while others try to guess the word. Take turns being the artist and compete for points by guessing quickly and drawing clearly. Perfect for virtual team building and casual fun with friends.",
+    "screenshot": "https://skribblgame.io/data/image/posts/skribbl-io-image.jpg",
+    "rating": 4.6,
+    "link": "https://skribbl.io",
+    "tags": ["drawing", "multiplayer", "party", "social", "guessing"]
+  },
+  {
+    "id": 6,
+    "name": "GeoGuesser",
+    "minPlayers": 1,
+    "maxPlayers": 20,
+    "description": "An immersive geography game where players are dropped into random locations around the world via Google Street View and must guess their location on the map. Test your geography knowledge, learn about different cultures, and explore the world from your browser.",
+    "screenshot": "https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/geoguessr-2819919.jpg?tf=3840x",
+    "rating": 4.7,
+    "link": "https://www.geoguessr.com",
+    "tags": ["geography", "educational", "multiplayer", "exploration"]
+  },
+  {
+    "id": 7,
+    "name": "Wordle",
+    "minPlayers": 1,
+    "maxPlayers": 20,
+    "description": "A daily word puzzle game where players have six attempts to guess a five-letter word. After each guess, the tiles change color to show how close your guess was to the word. Green means the letter is correct and in the right spot, yellow means the letter is in the word but in the wrong spot, and gray means the letter is not in the word.",
+    "screenshot": "https://www.nytimes.com/games-assets/v2/assets/wordle/wordle_og_1200x630.png",
+    "rating": 4.8,
+    "link": "https://www.nytimes.com/games/wordle",
+    "tags": ["word game", "puzzle", "daily challenge", "single player"]
+  }
+]
